@@ -1,0 +1,14 @@
+2023-11-19 09:42:00,673 - base_actor: BaseActor: Initializing BaseActor class.
+2023-11-19 09:42:00,690 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2023-11-19 09:42:00,699 - Initializing CharActor.
+2023-11-19 09:42:00,705 - Initializing character bank.
+2023-11-19 09:42:00,711 - Initializing catalogues.
+2023-11-19 09:42:00,717 - Creating catalogue instance.
+2023-11-19 09:42:00,914 - SCENE - scene - Initializing AbstractScene.
+2023-11-19 09:42:00,915 - CORE - _window - Importing _window module.
+2023-11-19 09:42:00,915 - CORE - _window - Initializing MainWindow class.
+2023-11-19 09:42:00,915 - CORE - _window - Registering event: on_activate
+2023-11-19 09:42:00,915 - CORE - _window - Registering event: on_deactivate
+2023-11-19 09:42:00,915 - CORE - _window - Registering event: on_reactivate
+2023-11-19 09:42:00,916 - CORE - _window - Registering event: on_refresh
+2023-11-19 09:42:00,916 - CORE - _window - Registering event: on_render
